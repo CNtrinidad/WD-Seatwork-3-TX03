@@ -1,0 +1,97 @@
+a {
+    text-decoration: none;
+}
+body {
+    background-image: url(../img/wallpaper1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+section.home {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+
+}
+
+section.home h1{
+    color:white;
+    font-size: 40px;
+    margin: 0px;
+    background-color: rgba(78, 76, 76, 0.692);
+    padding: 5px;
+}
+
+section.home h2{
+    color:white;
+    font-size: 25px;
+    margin: 0px;
+    background-color: rgba(78, 76, 76, 0.692);
+    padding: 5px;
+}
+
+section.home p{
+    color:white;
+    font-size: 20px;
+    background-color: rgba(78, 76, 76, 0.692);
+    padding: 5px;
+}
+section.home.buttons{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display : flex;
+    justify-content: flex-start;
+
+   
+}
+    & button{
+        border: none;
+        height : 70px;
+        width : 120px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+        color:rgb(78, 76, 76);
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 25px;
+        border-radius: 30px;
+        transition: .2s;
+    }
+
+    & button:hover{
+        transform: scale(1.2);
+        background-color: rgba(78,76,76);
+    }
+
+    & button:not(:hover){
+        background-color: rgba(78, 76, 76,);
+
+    }
+    
+    & button:hover a{
+        color: white;
+    }
+
+    & button:not(:hover) a{
+        color: rgb(129, 114, 114)
+
+    }
+
+    & button:active{
+        transform : scale(1);
+        background-color: white;
+    }
+
+    & button:active a{
+        color: darkred
+    }
