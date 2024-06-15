@@ -109,4 +109,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Animation | Animation. | https://www.w3schools.com/howto/howto_css_animated_search.asp |
+| Logos | This is where I got all the team logos. | https://liquipedia.net/valorant |
+| Instagram Icon | Instagram Icon. | https://www.stickpng.com/img/icons-logos-emojis/tech-companies/instagram-icon |
+| X Icon | Icon. | https://www.stickpng.com/img/icons-logos-emojis/tech-companies/xcom-logo-twitter-rebranding |
+| FB Icon | Icon. | https://www.stickpng.com/img/icons-logos-emojis/social-media-icons/white-facebook-logo-icon |
