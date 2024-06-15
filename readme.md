@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/CNtrinidad/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/icon.jpg" alt="Neko" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Header</h3>
+  <h3 align="center">Header-Footer Galleries</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
